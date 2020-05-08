@@ -36,6 +36,7 @@ education:
   - course: BSc in Mechanical Engineering
     institution: Harbin Institute of Technology
     year: 2017-2021
+    GPA: 89.3/100
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
