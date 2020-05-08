@@ -37,8 +37,7 @@ education:
     institution: Harbin Institute of Technology  
     year: 2017-2021 GPA(89.3/100)
     
-main course:
-- mechanical design
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
