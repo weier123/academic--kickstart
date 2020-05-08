@@ -34,8 +34,8 @@ education:
     institution: Korea Advance Institute of Science and Technology
     year: 2019.09-2020.01
   - course: BSc in Mechanical Engineering
-    institution: Harbin Institute of Technology  GPA: 89.3/100
-    year: 2017-2021
+    institution: Harbin Institute of Technology  
+    year: 2017-2021 GPA(89.3/100)
     
 
 # Social/Academic Networking
