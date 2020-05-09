@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Korea"
   date_start = "2019-10-01"
   date_end = "2020-01-14"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Built a connection between FPGA and Computer for Test platform"""
 
 +++
