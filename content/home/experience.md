@@ -41,4 +41,13 @@ date_format = "Jan 2006"
   date_end = "2020-01-14"
   description = """Built a connection between FPGA and Computer for Test platform"""
 
+[[experience]]
+  title = "Research Intern"
+  company = "KAIST"
+  company_url = ""
+  location = "Korea"
+  date_start = "2019-10-01"
+  date_end = "2020-01-14"
+  description = """Built a connection between FPGA and Computer for Test platform"""
+
 +++
