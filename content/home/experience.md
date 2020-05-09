@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "KAIST"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Korea"
+  date_start = "2019-10-01"
+  date_end = "2020-01-14"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
