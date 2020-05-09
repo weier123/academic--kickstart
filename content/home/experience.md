@@ -43,7 +43,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "KAIST"
+  company = "HIT"
   company_url = ""
   location = "Korea"
   date_start = "2019-10-01"
